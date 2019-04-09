@@ -3,6 +3,6 @@ Algorithms and implementation for basic imitation learning as well as an impleme
 
 utils.py: Houses utility functions used
 
-algorithms: Houses the exact imitation learning algorithm and DAgger imitation learning algorithms in addition to support functions
+algorithms.py: Houses the exact imitation learning algorithm and DAgger imitation learning algorithms in addition to support functions
 
 main.py: main file for executing algorithms
